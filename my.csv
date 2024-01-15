@@ -1,0 +1,10 @@
+os~family,os~full,os~kernel,os~name,os~platform,os~type,os~version,os~architecture,alias~os~Type,alias~os~version,alias~os~architecture,user~product,user~os~version~major,user~os~version~minor
+,,,,,,,,LINUX,"Red Hat Enterprise Linux Server release 6.10 (Santiago)""
+ (kernel 2.6.32-754.33.1.el6.x86_64)",X86,,,
+,,,,,,,,LINUX,Linux - Red Hat Enterprise Linux Server 7.7 (Maipo) (kernel 3.10.0-1160.el7.x86_64),X86,,,
+,,,,,,,,LINUX,Ubuntu 20.04.5 LTS (Focal Fossa) (kernel 5.4.0-125-generic),X86,,,
+,,,,,,,,LINUX,"CentOS release 6.10 (Final)""
+ (kernel 2.6.32-754.33.1.el6.x86_64)",X86,,,
+,,,,,,,,LINUX,"CentOS release 6.10 (Final)""
+ (kernel 2.6.32-754.23.1.el6.x86_64)",X86,,,
+,,,,,,,,LINUX,Red Hat Enterprise Linux 8.2 (Ootpa) (kernel 4.18.0-193.14.3.el8_2.ppc64le),PPCLE,,,
